@@ -1,0 +1,19 @@
+Node Js kia hai ?
+node js run time enviroment hai jo humko javascript ko out of browser use krsken 
+
+
+npm init 
+npm init -y
+
+
+npm i express
+
+
+
+
+
+1) for project initialized => npm init -y
+2) go to pkg.json add script => "start: : "node index.js"
+3) for installing express => run  command   npm i express
+
+
